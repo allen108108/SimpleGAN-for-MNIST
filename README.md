@@ -12,9 +12,9 @@ This is my first implementation of Generative Adversarial Network. Using the sim
 Training
 ---
 
-Step 1. Fix Generator generate random handwritting numbers , Training Discriminator.
-Step 2. Fix Discriminator , training Generator to generate better handwritting numbers .
-
+Step 1. Fix Generator generate random handwritting numbers , Training Discriminator. 
+Step 2. Fix Discriminator , training Generator to generate better handwritting numbers . 
+ 
 This is one epoch, and continue this process again and again......( default training 50000 epochs )
 
 
