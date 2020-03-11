@@ -15,7 +15,7 @@ Training
 Step 1. Fix Generator generate random handwritting numbers , Training Discriminator.  
 Step 2. Fix Discriminator , training Generator to generate better handwritting numbers .  
   
-   
+
 This is one epoch, and continue this process again and again......( default training 50000 epochs )
 
 
@@ -27,3 +27,11 @@ Random handwritting numbers training from 0 to 50000 epochs.
 
 Handwritting number eight training from 0 to 100000 epochs.
 ![](https://github.com/allen108108/SimpleGAN-for-MNIST/blob/master/data/sample_1.jpg)
+
+
+
+Reference
+---
+  
+1. [李宏毅 Machine Learning and having it Deep and Structured 課程筆記](https://allen108108.github.io/blog/categories/%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98-Course/%E6%9D%8E%E5%AE%8F%E6%AF%85-Machine-Learning-and-having-it-Deep-and-Structured/page/2/)  
+2. [實戰GAN：TensorFlow與Keras生成對抗網絡構建](https://www.tenlong.com.tw/products/9787121374098)  
